@@ -1,0 +1,11 @@
+[theme]
+base="light"
+
+# Customize colors
+primaryColor="#CC282E"
+backgroundColor="#D9D9D9"
+secondaryBackgroundColor="#8c393c"
+textColor="#1F110d"
+
+# Customize typography settings here
+font = "sans serif"
